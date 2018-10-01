@@ -1,0 +1,12 @@
+h1
+{font-family: sans-serif;
+}
+blockquote{
+  font-style: italic;
+}
+p{
+  font-size: normal
+}
+p{
+  color: inherit;
+}
