@@ -7,7 +7,7 @@ font-family: sans-serif;
 h2 {
 color:#340784;
 font-weight: 800;
-font-family: sans-serif;
+font-family: serif;
 }
 
 
@@ -24,4 +24,8 @@ font-family: "Georgia" , serif;
   line-height: 32px;
   font-size: smaller;
   font-stretch: expanded;
+}
+
+em {
+font-weight: 500;
 }
