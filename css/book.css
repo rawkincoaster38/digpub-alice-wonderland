@@ -1,0 +1,31 @@
+h1 {
+color: #070D84;
+font-weight: 900;
+font-family: sans-serif;
+}
+
+h2 {
+color:#340784;
+font-weight: 800;
+font-family: serif;
+}
+
+
+h3 {
+color:#841207;
+font weight: 500;
+  font-family: "Lucida Calligraphy" , serif;
+}
+
+blockquote {
+font-style: oblique;
+font-family: "Georgia" , serif;
+  font-weight: lighter;
+  line-height: 32px;
+  font-size: smaller;
+  font-stretch: expanded;
+}
+
+em {
+font-weight: 500;
+}
